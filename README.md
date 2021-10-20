@@ -7,7 +7,7 @@
 
 <h3>Bolos</h3>
 
-<h4> o passar o mouse em cima do bolo, ele te mostra os detalhes</h4>
+<h4>Ao passar o mouse em cima do bolo, ele te mostra os detalhes</h4>
 
 ![Bolo](https://user-images.githubusercontent.com/66811308/138015584-2df5c0e2-0996-4188-83f7-1c950d02e149.jpg)
 
