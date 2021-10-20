@@ -19,6 +19,6 @@
 
 <h3>Orçamento</h3>
 
-<h4>Você escolhe bolo branco q seria de R$45,00 ou de chocolate de R$50,00, colocar a quantidade de kilos, e tambem se você quer com papel arroz ou Topper,e assim ele acrescenta os valores, R$ </h4>
+<h4>Você escolhe bolo branco q seria de R$45,00 ou de chocolate de R$50,00, colocar a quantidade de kilos, e tambem se você quer com papel arroz ou Topper, e assim ele acrescenta os valores, R$ </h4>
 
 ![Orçamento](https://user-images.githubusercontent.com/66811308/138015605-b591652e-fab8-4117-8dbd-3b90c0718f1c.jpg)
